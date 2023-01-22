@@ -5,7 +5,7 @@ using Minimal.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 //Service registration start here
-
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -134,7 +134,7 @@ builder.Services.AddSingleton<GuidGenerator>();
         return Results.Ok();
     });
 
-
+    app.MapControllers();
 //Middleware registration stops here
     app.Run();
 }
