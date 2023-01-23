@@ -57,3 +57,5 @@ D:\Repos\Solution1\Library.Api\obj\Debug\net6.0\refint\Library.Api.dll
 D:\Repos\Solution1\Library.Api\obj\Debug\net6.0\Library.Api.pdb
 D:\Repos\Solution1\Library.Api\obj\Debug\net6.0\Library.Api.genruntimeconfig.cache
 D:\Repos\Solution1\Library.Api\obj\Debug\net6.0\ref\Library.Api.dll
+D:\Repos\Solution1\Library.Api\bin\Debug\net6.0\FluentValidation.dll
+D:\Repos\Solution1\Library.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

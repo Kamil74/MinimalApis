@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9orXMjhDxgMp2aFGPT3XE8W1qYr12x5u2g3xcXWdsqzNf3DTuHysY1g0NNbGmnCCXWClFQ77Rhfl8Pa+uVsU0Q==",
+  "dgSpecHash": "71NQOz3MxrVlLjxMAcppCslgWUIZErBXdg2m5j0HotHD0AkrhbPXHii1xuzNrfUubwRO+RUt4B3McDuCGglZQQ==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Solution1\\Minimal.Api\\Minimal.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rafim\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",

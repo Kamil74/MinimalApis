@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "4XoDg1GlCTcRGBJ7P3HwUtXkfyV1vncWekJl3C4H7fDXH3M9bWbx8xR8HSxcTGQ23bAZbcPdy660MSMkHbT6zg==",
+  "dgSpecHash": "CsXcS6azzLiovSOW+mzAe6A8fdnCG/qan86br5St/x1mZAIne9Y8e1MSF5xF97c0oB5vr6HCrXJ9Le5a3wBhww==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Solution1\\Library.Api\\Library.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafim\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\microsoft.data.sqlite\\7.0.2\\microsoft.data.sqlite.7.0.2.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rafim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\rafim\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",

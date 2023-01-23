@@ -30,3 +30,5 @@ D:\Repos\Solution1\Minimal.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGe
 D:\Repos\Solution1\Minimal.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Repos\Solution1\Minimal.Api\obj\Debug\net6.0\Minimal.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Repos\Solution1\Minimal.Api\obj\Debug\net6.0\Minimal.Api.csproj.CopyComplete
+D:\Repos\Solution1\Minimal.Api\bin\Debug\net6.0\FluentValidation.dll
+D:\Repos\Solution1\Minimal.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
